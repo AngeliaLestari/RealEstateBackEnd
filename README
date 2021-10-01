@@ -7,5 +7,5 @@ http://localhost:9090/search/kam
 Get project by name (case insensitive):
 http://localhost:9090/project/alexis
 
-test swagger
-http://localhost:9000/swagger-ui/index.html
+Test swagger
+http://localhost:9000/swagger-ui/index.html (not working - for future dev)
