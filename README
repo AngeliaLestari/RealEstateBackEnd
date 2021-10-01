@@ -1,0 +1,11 @@
+
+Example:
+
+Search project by street name:
+http://localhost:9090/search/kam
+
+Get project by name (case insensitive):
+http://localhost:9090/project/alexis
+
+test swagger
+http://localhost:9000/swagger-ui/index.html

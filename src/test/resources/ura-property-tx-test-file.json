@@ -1,0 +1,38 @@
+{
+  "Result": [
+    {
+      "project": "TURQUOISE",
+      "marketSegment": "CCR",
+      "transaction": [
+        {
+          "area": "203",
+          "contractDate": "0715",
+          "price": "2900000",
+          "propertyType": "Condominium",
+          "typeOfArea": "Strata",
+          "tenure": "99 yrs lease commencing from 2007",
+          "floorRange": "01-05",
+          "typeOfSale": "3",
+          "district": "04",
+          "noOfUnits": "1"
+        },
+        {
+          "contractDate": "0116",
+          "area": "200",
+          "price": "3014200",
+          "propertyType": "Condominium",
+          "typeOfArea": "Strata",
+          "tenure": "99 yrs lease commencing from 2007",
+          "floorRange": "01-05",
+          "typeOfSale": "3",
+          "district": "04",
+          "noOfUnits": "1"
+        }
+      ],
+      "street": "COVE DRIVE",
+      "y": "24997.821719180001",
+      "x": "28392.530515570001"
+    }
+  ],
+  "Status": "Success"
+}
